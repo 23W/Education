@@ -8,5 +8,6 @@ namespace UniversalSort
     {
         public string name;
         public int age;
+        public double score;
     }
 }
